@@ -13,8 +13,8 @@ export default class Routes extends Component {
                 titleStyle={{color: 'white',}}
             >
                 <Stack key="root">
+                <Scene key="signup" component={Signup} title="Register"/>
                 <Scene key="login" component={Login} title="Login"/>
-                <Scene key="signup" component={Signup} title="Sign up"/>
                 </Stack>
             </Router>
         )
