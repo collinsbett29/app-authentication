@@ -1,5 +1,4 @@
 # app-authentication
-# WEB_AUTHENTICATION
 
 ## Description
 This project allows users to register and account and to login using the credentials used in registration and also allows users to view their profile.
